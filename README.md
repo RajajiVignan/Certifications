@@ -12,3 +12,6 @@ It is a 11-week course starting from the basics of R/python to the background Ma
 
 
 ![image](https://user-images.githubusercontent.com/71135324/112575782-04bfc200-8e17-11eb-8018-60bdfbe31701.png)
+
+
+I'm a Machine Learning Enthusiast who like to learn do projects in Deep Learning,Natural Language Processing.
